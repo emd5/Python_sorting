@@ -1,4 +1,4 @@
-#Python Sorting 
+# Python Sorting 
 
 This program excepts a data file containing a list of random integer numbers, the goal is read the file and print out:
 - The sum and average of all values
